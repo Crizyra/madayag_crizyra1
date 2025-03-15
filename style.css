@@ -1,0 +1,14 @@
+*{
+    text-align: center; 
+    color:#998ace;
+    font-family: 'Franklin Gothic Medium';
+    background-color: rgb(240, 209, 240);
+ }
+ p {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(133, 109, 138);
+ }
+ ul li a{
+    display: inline;
+ }
